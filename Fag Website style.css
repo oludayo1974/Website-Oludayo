@@ -1,0 +1,82 @@
+
+body{
+	margin: 0;
+	font-family: 'merriwether', serif;
+
+	
+
+
+}
+
+h1{
+	width: 10%;
+	margin: 0 auto 0 auto;
+	font-family: 'sacramento', serif;
+
+}
+
+h2{
+	font-family: 'montserrat', serif;
+}
+
+p{
+	font-family: 'montserrat', serif;
+}
+
+
+h3{
+	font-family: 'sacramento', serif;
+	text-align: right;
+}
+
+.top-container{
+
+	text-align: center;
+	position: relative;
+	padding: 100px;
+}
+
+.second-container{
+
+	text-align: center;
+}
+
+.bottom-cloud {
+	position: relative;
+	right: 100px;
+	bottom: 10px;
+}
+
+.top-cloud{
+	position: relative;
+	left: 800px;
+	
+}
+
+
+.image {
+
+	
+	width: 450px;
+	height: 200px;
+	position: relative;
+	left: 450px;
+	
+}       
+
+.contact-me{
+
+	width: 500px;
+	background-color: gold;
+}
+
+.btn{
+	width: 200px;
+	position: relative;
+	left: 10px;
+
+}
+
+
+
+
